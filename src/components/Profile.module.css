@@ -1,0 +1,10 @@
+.content {
+  grid-area: c;
+}
+
+.img_wrapper {
+  width: 500px;
+  height: auto;
+}
+.item {
+}
